@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/duvan/AndroidStudioProjects/Asteroides/app/src/main/res/drawable/borde_asteroids.xml" value="0.2203125" />
+        <entry key="..\:/Users/duvan/AndroidStudioProjects/Asteroides/app/src/main/res/drawable/borde_button.xml" value="0.2203125" />
+        <entry key="..\:/Users/duvan/AndroidStudioProjects/Asteroides/app/src/main/res/drawable/borde_edittext.xml" value="0.2203125" />
+        <entry key="..\:/Users/duvan/AndroidStudioProjects/Asteroides/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/duvan/AndroidStudioProjects/Asteroides/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/duvan/AndroidStudioProjects/Asteroides/app/src/main/res/layout/activity_session_start.xml" value="0.22" />
+        <entry key="..\:/Users/duvan/AndroidStudioProjects/Asteroides/app/src/main/res/layout/item_asteroid.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
